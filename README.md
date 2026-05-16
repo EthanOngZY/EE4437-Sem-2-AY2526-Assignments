@@ -4,3 +4,5 @@ Assignments that I did when I took EE4437 Photonics. I didn't find much material
   * Assignments have probably changed by the time you're reading this, so just walk through the steps and learn what to do.
 
 The first half of the course was taught by Prof. Yang, while the second half was taught by Prof. Mansoor. The first three assignments were from the first half, while the fourth was from the second half.
+
+To Prof. Yang and Prof. Mansoor: if you come across this and wish for me to take it down, send an email to ethan.ong.zy@u.nus.edu to let me know.
