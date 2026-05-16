@@ -1,7 +1,7 @@
 # Assignment 1
 
 <p align="center">
-  <img width="720" height="360" src="pictures/Question.png">
+  <img width="720" height="483" src="pictures/Question.png">
 </p>
 
 <p align="center">
